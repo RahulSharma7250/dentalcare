@@ -32,8 +32,8 @@ const transformations = [
   },
   {
     id: 3,
-    before: "/precision.jpeg?w=800&h=600&fit=crop",
-    after: "/precision2.jpeg?w=800&h=600&fit=crop",
+    before: "/Precision.jpeg?w=800&h=600&fit=crop",
+    after: "/Precision2.jpeg?w=800&h=600&fit=crop",
     treatment: "Precision Implants",
     description: "Biological tooth replacement using 3D-guided surgical mastery for a natural functional result.",
     patient: "Rahul S.",
